@@ -6,4 +6,3 @@ Bem-vindo aos repositórios da freecode! Este projeto é desenvolvido por Evandr
 
 - HTML
 - CSS# projeto_da_freecode6
-# projeto_da_freecode7
